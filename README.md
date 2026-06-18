@@ -96,11 +96,4 @@ CSV Output
 5. **Timestamped Naming** — Static filenames (`clutch-leads-1.csv`) created Google Drive collisions and version confusion. Solution: Add ISO timestamp to filename (`clutch-leads-YYYY-MM-DDTHH-MM-1.csv`) for chronological tracking.
 
 ## Repository Scope
-
-This repository contains the **scraper script only**.
-
-**Not included:**
-- n8n workflow definitions (Email Enricher, Enricher Manager)
-- Google Drive integration code
-- Frontend application
-- Database schema
+This repository serves as a project showcase and documentation hub. 
