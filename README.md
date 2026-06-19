@@ -74,14 +74,11 @@ For each page (1 to N):
 - Minimum Project Size
 
 ## Screenshots
-Clutch Source Page
-(Add Screenshot)
+Clutch Source Directory Page
+![Clutch Source Directory Layout](assets/clutch_source_page.png)
 
-Extraction Process
-(Add Screenshot)
-
-CSV Output
-(Add Screenshot)
+Scraper Execution & Chunked CSV Data Output
+![Terminal Success and Structured CSV Output](assets/clutch_csv_output.png)
 
 ## Lessons Learned & Technical Decisions
 
